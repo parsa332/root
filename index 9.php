@@ -6,10 +6,10 @@ Channels :
 Amirreza
 */
 ob_start();
-$admin = '277143452';//add_sudo
+$admin = '581956880';//add_sudo
 $idchannel = "Amirreza";//add_id_channel
-define('API_KEY','abc1');//add_token
-$bot_support = "@AmirrezaIRbot";//add_bot_support
+define('API_KEY','541645114:AAEeGiponeUAv45w4uBVQzRogAa0s1yzFVw');//add_token
+$bot_support = "@pmrsanco_bot";//add_bot_support
 
 mkdir("other");
 mkdir("other/setting");
