@@ -7,8 +7,8 @@ Amirreza
 */
 ob_start();
 $admin = '581956880';//add_sudo
-$idchannel = "Amirreza";//add_id_channel
-define('API_KEY','541645114:AAEeGiponeUAv45w4uBVQzRogAa0s1yzFVw');//add_token
+$idchannel = "telexbeta";//add_id_channel
+define('API_KEY','609561106:AAFrRJP9cEyS8UDohCL8FWFFClYMJf6HSyY');//add_token
 $bot_support = "@pmrsanco_bot";//add_bot_support
 
 mkdir("other");
